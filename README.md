@@ -8,7 +8,7 @@
 
  <img align="right" alt="GIF" src="./images/code.gif" width="430" height="100%" />
 
--   <a href="https://bbboy.top"><code><img height="20" width="30" src="./images/favicon.ico"></code></a>：个人博客
+-   <a href="https://bbboy.top"><code><img height="20" width="28" src="./images/favicon.ico"></code></a>：个人博客
 
 ### **技术栈:**
 
@@ -21,6 +21,7 @@
 ### 开源项目
 
 [![bbboyFrontend](https://github-readme-stats.vercel.app/api/pin/?username=BBboy01&repo=bbboyFrontend)](https://github.com/BBboy01/bbboyFrontend)
+[![bbboyBackend](https://github-readme-stats.vercel.app/api/pin/?username=BBboy01&repo=bbboyBackend)](https://github.com/BBboy01/bbboyBackend)
 [![ChangeStype](https://github-readme-stats.vercel.app/api/pin/?username=BBboy01&repo=ChangeStype)](https://github.com/BBboy01/ChangeStype)
 [![51-Proteus8-traffic-lights-simulation](https://github-readme-stats.vercel.app/api/pin/?username=BBboy01&repo=51-Proteus8-traffic-lights-simulation)](https://github.com/BBboy01/51-Proteus8-traffic-lights-simulation)
 <br><br><br>
