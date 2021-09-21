@@ -1,4 +1,4 @@
-<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34" cursor="none">
+<img align="right" src="https://count.getloli.com/get/@:Minori-ty?theme=rule34" cursor="default">
 
 ## 前端工程师—BBboy
 
